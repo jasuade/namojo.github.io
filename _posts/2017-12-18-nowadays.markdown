@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: Nowadays, We test
+date: 2017-12-18 16:32:20 +0300
+description: Test desc
+img: i-rest.jpg # Add image post (optional)
+tags: [Holidays, Hawaii]
 ---
 ## 새로운 날들에 관해서 적어봅시다.
 
