@@ -2,11 +2,6 @@
 @import 'syntax';
 @import 'variables';
 
-@font-face {
-  font-family: "NANUMSQUARER";
-    src: url( '../_assets/fonts/NANUMSQUARER.TTF') format( 'truetype');
-}
-
 *, *::after, *::before {
   box-sizing: border-box;
 }
