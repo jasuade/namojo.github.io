@@ -13,6 +13,7 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 2 */
+  font-family: 'NanumSqaure';
 }
 
 /* Sections
@@ -21,6 +22,7 @@ html {
  * Remove the margin in all browsers (opinionated).
  */
 body {
+  font-family: 'NanumSqaure';
   margin: 0;
 }
 
@@ -33,6 +35,7 @@ footer,
 header,
 nav,
 section {
+  font-family: 'NanumSqaure';
   display: block;
 }
 
@@ -41,6 +44,7 @@ section {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
+  font-family: 'NanumSqaure';
   font-size: 2em;
   margin: 0.67em 0;
 }
@@ -55,6 +59,7 @@ figcaption,
 figure,
 main {
   /* 1 */
+  font-family: 'NanumSqaure';
   display: block;
 }
 
