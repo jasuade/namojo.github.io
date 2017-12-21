@@ -84,7 +84,8 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: monospace, monospace, 'NanumSqaure'!important;
+  /*font-family: monospace, monospace, 'NanumSqaure'!important;*/
+  font-family: 'NanumSqaure';
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -140,7 +141,8 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace, 'NanumSquare'!important;
+  /*font-family: monospace, monospace, 'NanumSquare'!important;*/
+  font-family: 'NanumSqaure';
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -231,7 +233,8 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif, 'NanumSquare'!important;
+  /*font-family: sans-serif, 'NanumSquare'!important;*/
+  font-family: 'NanumSqaure';
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -773,7 +776,8 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif, 'NanumSquare'!important;
+  /*font-family: 'Lato', sans-serif, 'NanumSquare'!important;*/
+  font-family: 'NanumSqaure';
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -953,7 +957,8 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif, 'NanumSquare'!important;
+  /*font-family: 'PT Serif', serif, 'NanumSquare'!important;*/
+  font-family: 'NanumSqaure';
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
