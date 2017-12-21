@@ -43,7 +43,7 @@ section {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
-  font-family: 'Sqaure'!important;
+  font-family: 'NanumSqaure'!important;
   font-size: 2em;
   margin: 0.67em 0;
 }
@@ -1085,14 +1085,14 @@ table tfoot td {
 }
 
 footer .copyright {
-  font-family: 'Sqaure'!important;
+  font-family: 'NanumSqaure'!important;
   font-size: 14px;
   text-align: center;
   margin: 0;
 }
 
 .post {
-  font-family: 'Sqaure'!important;
+  font-family: 'NanumSqaure'!important;
   width: 100%;
   max-width: 100%;
   margin-bottom: 1.5rem;
@@ -1148,14 +1148,14 @@ footer .copyright {
 }
 
 .post .post-content .post-title {
-  font-family: 'Sqaure'!important;
+  font-family: 'NanumSqaure'!important;
   margin: 0 0 10px;
   font-size: 30px;
   font-weight: 400;
 }
 
 .post .post-content .post-title a {
-  font-family: 'Sqaure'!important;
+  font-family: 'NanumSqaure'!important;
   font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
@@ -1298,7 +1298,7 @@ a.newer-posts:hover {
 }
 
 .blog-tags h2 {
-  font-family: 'Sqaure'!important;
+  font-family: 'NanumSqaure'!important;
   color: #263959;
   margin: 10px 0;
 }
