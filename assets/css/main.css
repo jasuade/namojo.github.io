@@ -1071,6 +1071,7 @@ table tfoot td {
 }
 
 .contact ul li {
+  font-family: 'FontAwesome';
   display: inline-block;
   margin-left: 10px;
 }
