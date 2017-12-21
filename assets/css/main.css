@@ -775,7 +775,8 @@ template {
 }
 
 *, *::after, *::before {
-  font-family: 'NanumSquare';
+  font-family: 'NanumSquare','FontAwesome';
+  
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
