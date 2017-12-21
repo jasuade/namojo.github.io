@@ -7,7 +7,7 @@
  *    IE on Windows Phone and in iOS.
  */
  @font-face {
-  font-family: 'NanumSquare' !important;
+  font-family: 'NanumSquare';
   src: url('../fonts/NanumSquareR.eot?#iefix') format('embedded-opentype'),
        url('../fonts/NanumSquareR.woff') format('woff'),
        url('../fonts/NanumSquareR.ttf') format('truetype');  
