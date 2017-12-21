@@ -7,7 +7,7 @@ img: post_01_03.jpg
 tags: [CSR, CSV]
 comments: true
 ---
-
+ 
 ## CJ는왜 중소기업과의 동반성장에 집중했을까?
 
 누구나 한 번은 들어봄직한 중소기업 브랜드가 있죠. 
