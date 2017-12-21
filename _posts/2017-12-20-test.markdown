@@ -5,6 +5,7 @@ date: 2017-12-20 16:32:20 +0300
 description: 조직의 비개발자가 개발자를 어떤 방식으로 이해해야하는지에 대해서 이야기합니다.
 img: a0112764280_10.jpg # Add image post (optional)
 tags: [nowadays, environment]
+comments: true
 ---
 ## 새로운 날들에 관해서 적어봅시다.
 
