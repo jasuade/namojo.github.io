@@ -7,13 +7,6 @@
  *    IE on Windows Phone and in iOS.
  */
 
-@font-face {
-  font-family: 'NanumSquare' !important;
-  src: url('../fonts/NanumSquareR.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/NanumSquareR.woff') format('woff'),
-       url('../fonts/NanumSquareR.ttf') format('truetype');  
-}
-
 html {
   line-height: 1.15;
   /* 1 */
@@ -21,7 +14,6 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 2 */
-  font-family: 'NanumSqaure';
 }
 
 /* Sections
@@ -30,7 +22,6 @@ html {
  * Remove the margin in all browsers (opinionated).
  */
 body {
-  font-family: 'NanumSqaure';
   margin: 0;
 }
 
@@ -43,7 +34,7 @@ footer,
 header,
 nav,
 section {
-  font-family: 'NanumSqaure';
+  
   display: block;
 }
 
@@ -52,7 +43,7 @@ section {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
-  font-family: 'NanumSqaure';
+  font-family: 'Sqaure';
   font-size: 2em;
   margin: 0.67em 0;
 }
@@ -67,8 +58,7 @@ figcaption,
 figure,
 main {
   /* 1 */
-  font-family: 'NanumSqaure';
-  display: block;
+    display: block;
 }
 
 /**
@@ -97,8 +87,8 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  /*font-family: monospace, monospace, 'NanumSqaure'!important;*/
-  font-family: 'NanumSqaure';
+  font-family: monospace, monospace;
+  
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -154,8 +144,7 @@ strong {
 code,
 kbd,
 samp {
-  /*font-family: monospace, monospace, 'NanumSquare'!important;*/
-  font-family: 'NanumSqaure';
+  font-family: monospace, monospace;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -246,8 +235,8 @@ input,
 optgroup,
 select,
 textarea {
-  /*font-family: sans-serif, 'NanumSquare'!important;*/
-  font-family: 'NanumSqaure';
+  font-family: sans-serif ;
+  
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -789,8 +778,8 @@ html {
 }
 
 body {
-  /*font-family: 'Lato', sans-serif, 'NanumSquare'!important;*/
-  font-family: 'NanumSqaure';
+  font-family: 'Lato', sans-serif;
+  
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -970,8 +959,7 @@ table tfoot td {
 }
 
 .about .author-name {
-  /*font-family: 'PT Serif', serif, 'NanumSquare'!important;*/
-  font-family: 'NanumSqaure';
+  font-family: 'PT Serif', serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
@@ -1164,7 +1152,7 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif, 'NanumSquare'!important;
+  font-family: 'PT Serif', serif;
   text-decoration: none;
   color: #263959;
 }
@@ -1306,7 +1294,6 @@ a.newer-posts:hover {
 }
 
 .blog-tags h2 {
-  font-family: 'NanumSqaure';
   color: #263959;
   margin: 10px 0;
 }
