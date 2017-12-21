@@ -1019,6 +1019,7 @@ table tfoot td {
 }
 
 .contact .contact-title {
+  font-family: 'FontAwesome';
   position: relative;
   color: #333030;
   font-weight: 400;
@@ -1029,6 +1030,7 @@ table tfoot td {
 }
 
 .contact .contact-title::before {
+  font-family: 'FontAwesome';
   content: "";
   display: block;
   height: 2px;
@@ -1044,6 +1046,7 @@ table tfoot td {
 }
 
 .contact .contact-title::after {
+  font-family: 'FontAwesome';
   content: "";
   display: block;
   height: 2px;
@@ -1059,6 +1062,7 @@ table tfoot td {
 }
 
 .contact ul {
+  font-family: 'FontAwesome';
   margin: 0;
   padding: 0;
   list-style: none;
