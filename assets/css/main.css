@@ -6,6 +6,14 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
+
+@font-face {
+  font-family: 'NanumSquare';
+  src: url('../fonts/NanumSquareR.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/NanumSquareR.woff') format('woff'),
+       url('../fonts/NanumSquareR.ttf') format('truetype');  
+}
+
 html {
   line-height: 1.15;
   /* 1 */
