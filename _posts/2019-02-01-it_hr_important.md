@@ -3,7 +3,7 @@ layout: post
 title: IT기업에서 HR은 왜 중요한가?
 date: 2018-02-01 09:00:00 +0900
 description: HR은 왜 기업의 혁신의 발목을 잡게 될까?
-img: post_02_001.jpg 
+img: post_02_01.jpg 
 tags: [Agile, HR]
 comments: true
 ---
