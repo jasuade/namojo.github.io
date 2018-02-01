@@ -14,7 +14,7 @@ Facebook이나 Google과 같은 글로벌 IT기업 뿐만 아니라 작은 규�
 
 
 
-![human resources에 대한 이미지 검색결과](http://www.thebluediamondgallery.com/pictures/human-resources.jpg)
+![human resources](http://www.thebluediamondgallery.com/pictures/human-resources.jpg)
 
 
 
@@ -32,7 +32,7 @@ HR이 회사의 미래의 발목을 잡는 것은 이제 IT기업만의 일은 �
 
 
 
-![PNG 전시](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/INGs%20agile%20transformation/SVG%20QWeb_ING_ex1.ashx)
+![mckinsey](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/INGs%20agile%20transformation/SVG%20QWeb_ING_ex1.ashx)
 
 
 
