@@ -4,7 +4,7 @@ title: 기업의 CSR vs CSV
 date: 2018-01-09 09:00:20 +0900
 description: IT회사는 어떤 방식으로 사회에 기여하는가?
 img: post_01_00.jpg 
-tags: [CSR, CSV, Cisco, CNA, CJ]
+tags: [CSR, CSV, Cisco, CNA, devpools]
 comments: true
 ---
 <br> 
