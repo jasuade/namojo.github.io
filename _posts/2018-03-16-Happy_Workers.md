@@ -4,7 +4,7 @@ title: Happy Workers
 date: 2018-03-16 09:00:00 +0900
 description: 문제를 해결을 위한 최적의 답을 고민하는 개발자가 행복할 자격이 있다.
 img: post_03_00.JPG 
-tags: [happy, developer, worker]
+tags: [happy, developer, worker, devpools]
 comments: true
 ---
 <br> 
